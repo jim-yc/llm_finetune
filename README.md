@@ -72,6 +72,7 @@ uv pip install -r requirements.txt
 ├── train_qlora.py                # 模型微調
 ├── infer_lora_chat.py            # 模型推論
 ├── data.jsonl                    # 原始資料
+├── requirements.txt              # 套件列表
 ├── .gitattributes                # Git LFS 設定
 ├── .gitignore                    # Git 忽略清單
 └── README.md                     # 專案說明文件
